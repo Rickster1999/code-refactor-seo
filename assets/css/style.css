@@ -65,7 +65,7 @@ main {
     margin-left: 20px;
 }
 
-section {
+.story {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -74,11 +74,11 @@ section {
     color: #ffffff;
 }
 
-section img {
+.story img {
     max-height: 200px;
 }
 
-section h2 {
+.story h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
